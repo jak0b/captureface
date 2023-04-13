@@ -1,0 +1,11 @@
+.cache
+*.swp
+*.o
+*.a
+bin/
+test/
+build/
+build-*/
+.lvimrc
+config-debug
+subprojects
